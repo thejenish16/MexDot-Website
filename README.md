@@ -55,17 +55,9 @@ It’s designed to be **eye-catching, fast, and user-friendly**.
 ![Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ---
+💎 Author
 
-## 📦 Installation
-```bash
-# Clone the repo
-git clone https://github.com/your-username/your-repo.git
+👨‍💻 Jenish
+📌 GitHub: @thejenish16
 
-# Go to project folder
-cd your-repo
-
-# Install dependencies
-npm install
-
-# Run project
-npm start
+📧 Email: jenishpardava16@gmail.com
